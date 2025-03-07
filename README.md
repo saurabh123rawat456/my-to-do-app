@@ -25,3 +25,9 @@ A sleek, simple, and interactive To Do App designed to help you stay organized a
 - **HTML**: To structure the magic ✨  
 - **CSS**: For those stunning styles 🎨  
 - **JavaScript**: Bringing interactivity to life 💡  
+
+---
+
+## 🎥 Live Demo  
+
+👉 [**Try it Live!**](https://saurabh123rawat456.github.io/my-to-do-app/)
